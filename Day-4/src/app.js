@@ -7,7 +7,7 @@ app.use(express.json())
 const notes =[]
 
   app.get("/",(req,res)=>{
-    res.send("heloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo")
+    res.send("heloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo hiiiiiiiiiiiiiiiiiiiiii")
   })
 
 
